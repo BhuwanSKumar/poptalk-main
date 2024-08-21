@@ -88,11 +88,7 @@ What does PopTalk do?
 ### Architecture
 ![Architecture](https://user-images.githubusercontent.com/32746859/162618911-91f65ded-0262-42d2-82a1-7c53a0bafa2a.png)
 
-### Contact
 
-- [Manavendra Sen](https://www.linkedin.com/in/manavendrasen/)
-- [Somil Gupta](https://www.linkedin.com/in/somil-gupta-142973195/)
-- [Divyanshu Sharma](https://www.linkedin.com/in/d1vshar/)
-- [Ayush Agarawal](https://www.linkedin.com/in/ayush-agrawal-86143a190)
+
 
 
